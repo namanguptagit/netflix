@@ -7,7 +7,7 @@ function App() {
     <Router>
       <Header/>
       <Routes>
-        <Route path='https://namanguptagit.github.io/netflix/' element={<Home/>}/>
+        <Route path='/' element={<Home/>}/>
       </Routes>
     </Router>
   );
